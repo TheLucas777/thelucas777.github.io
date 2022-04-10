@@ -2,59 +2,41 @@
 
 const config = {
   github: {
-    username: 'arifszn', // Your GitHub org/user name. (Required)
+    username: 'thelucas777', // Your GitHub org/user name. (Required)
     sortBy: 'stars', // stars | updated
     limit: 10, // How many projects to display.
     exclude: {
       forks: false, // Forked projects will not be displayed if set to true.
-      projects: ['laravel-ecommerce'], // These projects will not be displayed. example: ['my-project1', 'my-project2']
+      projects: ['thelucas777.github.io'], // These projects will not be displayed. example: ['my-project1', 'my-project2']
     },
   },
   social: {
-    linkedin: 'ariful-alam',
-    twitter: 'arif_szn',
+    linkedin: '',
+    twitter: 'TheLucas777',
     facebook: '',
     dribbble: '',
     behance: '',
     medium: '',
-    dev: 'arifszn',
-    website: 'https://arifszn.github.io',
+    dev: '',
+    website: 'https://thelucas777.github.io',
     phone: '',
-    email: 'arifulalamszn@gmail.com',
+    email: 'lgrundl@tsn.at',
   },
   skills: [
-    'PHP',
-    'Laravel',
-    'JavaScript',
-    'React.js',
-    'Node.js',
+    'Java',
+    'Python',
+    'HTML',
+    'CSS',
     'MySQL',
     'Git',
-    'Docker',
-    'CSS',
-    'Antd',
-    'Tailwind',
-    'Bootstrap',
   ],
   experiences: [
-    {
-      company: 'Monstarlab Bangladesh',
-      position: 'Backend Engineer II',
-      from: 'September 2021',
-      to: 'Present',
-    },
-    {
-      company: 'Orangetoolz',
-      position: 'Jr. Full Stack Engineer',
-      from: 'July 2019',
-      to: 'August 2021',
-    },
-    {
-      company: 'Techvillage',
-      position: 'Jr. Software Engineer',
-      from: 'January 2019',
-      to: ' June 2019',
-    },
+    //{
+    //  company: 'Monstarlab Bangladesh',
+    //  position: 'Backend Engineer II',
+    //  from: 'September 2021',
+    //  to: 'Present',
+    //},
   ],
   education: [
     {
@@ -91,7 +73,7 @@ const config = {
     snippetVersion: 6,
   },
   themeConfig: {
-    defaultTheme: 'corporate',
+    defaultTheme: 'synthwave',
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode
