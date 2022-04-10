@@ -12,7 +12,7 @@ const config = {
   },
   social: {
     linkedin: '',
-    twitter: 'TheLucas777',
+    twitter: 'StonksGaming',
     facebook: '',
     dribbble: '',
     behance: '',
@@ -40,36 +40,36 @@ const config = {
   ],
   education: [
     {
-      institution: 'American International University-Bangladesh',
-      degree: 'Bachelor of Science',
-      from: '2015',
-      to: '2019',
+      institution: 'Volksschule Vomp',
+      //degree: '',
+      from: '2013',
+      to: '2017',
     },
     {
-      institution: 'Cantonment College, Jessore',
-      degree: 'Higher Secondary Certificate (HSC)',
-      from: '2012',
-      to: '2014',
+      institution: 'BRG/BORG Schwaz',
+      //degree: 'Higher Secondary Certificate (HSC)',
+      from: '2017',
+      to: '2021',
     },
     {
-      institution: 'Chowgacha Shahadat Pilot High School',
-      degree: 'Secondary School Certificate (SSC)',
-      from: '2007',
-      to: '2012',
+      institution: 'HTL Anichstraße',
+      //degree: 'Secondary School Certificate (SSC)',
+      from: '2021',
+      to: 'Present',
     },
   ],
   // Display blog posts from your medium or dev account. (Optional)
   blog: {
     source: 'dev', // medium | dev
-    username: 'arifszn',
+    username: 'thelucas777',
     limit: 3, // How many posts to display. Max is 10.
   },
   googleAnalytics: {
     // GA3 tracking id/GA4 tag id UA-XXXXXXXXX-X | G-XXXXXXXXXX
-    id: 'G-WLLB5E14M6', // Please remove this and use your own tag id or keep it empty
+    id: 'G-2YTBJCK09S', // Please remove this and use your own tag id or keep it empty
   },
   hotjar: {
-    id: '2617601', //  Please remove this and use your own id or keep it empty
+    id: '', //  Please remove this and use your own id or keep it empty
     snippetVersion: 6,
   },
   themeConfig: {
